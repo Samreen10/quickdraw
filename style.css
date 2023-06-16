@@ -1,0 +1,22 @@
+body{
+    background-color: lightcyan;
+}
+
+h1{
+    color:black;
+    background-color: white;
+}
+
+canvas{
+    border:5px solid white;
+    border-radius:20px;
+    animation-name: example;
+    animation-duration:4s;
+    margin-top: 50px;
+    animation-iteration-count: infinite;
+}
+
+p{
+    padding-top: 10px;
+    font-size:25px;
+}
